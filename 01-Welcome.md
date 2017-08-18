@@ -16,8 +16,6 @@ Also, please review the following online guides to GitHub:
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-[Learning More about Git and GitHub](https://guides.github.com/)
-
  
 ## About this Course
 
