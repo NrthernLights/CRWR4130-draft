@@ -4,7 +4,7 @@ This is your repository for working on your composition for Creative Writing 413
 
 The full documentation for the course is contained in the other documents in
 this repository. Please read them (in order). Click on each document to view it. Use the
-back button or click the breadcrumb menu above (where it shows `CRWR1200-draft`
+back button or click the breadcrumb menu above (where it shows `CRWR4130-draft`
 in blue) to return to the main page.
 
 
