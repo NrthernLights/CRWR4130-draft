@@ -2,6 +2,10 @@
 
 At a minimum, please read _Genesis: Memory of Fire_ (by Eduardo Galeano), _Wild Stone Heart_ (by Sharon Butala), and _The Woman Warrior_ (by Maxine Hong Kingston).
 
+Also read everything on [the course website](https://crwr4130.netlify.com/).
+
+Also please review your instructor's [Goodreads bookshelf](https://www.goodreads.com/review/list/54311635-ross-laird?shelf=creative-writing-3230&utf8=%E2%9C%93&view=covers) for this course.
+
 And, while you're at it, read as many of these books as you can:
 
 ## Books on writing a sentence/punctuation
@@ -41,20 +45,6 @@ And, while you're at it, read as many of these books as you can:
 * Mary Richards, _Centering in Pottery, Poetry and the Person_
 * Pat Allen, _Art is a Way of Knowing_
 * Frank Wilson, _The Hand_
-
-Also feel free to review your instructor's [Goodreads bookshelf](https://www.goodreads.com/review/list/54311635-ross-laird?shelf=creative-writing-3230&utf8=%E2%9C%93&view=covers) for this type of course.
-
-## Resources on the course website
-
-[Starting to Write](http://crwr4130.netlify.com/creativity/2017/08/12/starting-to-write/)
-
-[Steps to Better Writing](http://crwr4130.netlify.com/creativity/2017/08/15/steps-to-better-writing/)
-
-[Tips on Tightening](https://crwr4130.netlify.com/creativity/2017/08/15/tips-on-tightening/)
-
-[Sentence Composition Checklist](https://crwr4130.netlify.com/creativity/2017/08/15/sentence-checklist/)
-
-[On Being Focused](https://crwr4130.netlify.com/education/creativity/2017/07/31/blinking-cursor-blank-page/)
 
 ## Other Interesting Resoruces
 
