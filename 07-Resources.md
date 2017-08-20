@@ -4,7 +4,7 @@ At a minimum, please read _Genesis: Memory of Fire_ (by Eduardo Galeano), _Wild 
 
 Also read everything on [the course website](https://crwr4130.netlify.com/).
 
-Also please review your instructor's [Goodreads bookshelf](https://www.goodreads.com/review/list/54311635-ross-laird?shelf=creative-writing-3230&utf8=%E2%9C%93&view=covers) for this course.
+Also please review your instructor's [Goodreads bookshelf](https://www.goodreads.com/review/list/54311635-ross-laird?shelf=creative-writing-3-4) for this course.
 
 And, while you're at it, read as many of these books as you can:
 
