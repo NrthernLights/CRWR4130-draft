@@ -1,9 +1,4 @@
-# Your Draft
-
-This is your draft. You will replace this placeholder text with your own text.
-
-Here is a new paragraph. It has a blank line before it. Generally, the only formatting you will need to know about is how to create new paragraphs, headers, and links. Here's a handy [guide on those topics](https://help.github.com/articles/basic-writing-and-formatting-syntax/). You may wish to bookmark it.
-
-To edit this text, click the pencil icon above and to the right.
-
-Happy writing!
+This is my draft.
+It is full of garbage and deleted content that is apparently accessible forever. Enjoy it, I guess.
+I have nothing interesting to write about.
+I don't want to write about myself or nature anymore. I, in fact, do not wish to write at all.
